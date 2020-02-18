@@ -1,5 +1,5 @@
 # SUR-FeatNet
-Deep Learning Models for predciting the Satisfied User Ratio Curve
+Deep Learning Models for predciting the satisfied user ratio (SUR) curve.
 
 
 
