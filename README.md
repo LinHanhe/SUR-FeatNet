@@ -2,6 +2,7 @@
 
 This code implements a deep learning model for predciting the satisfied user ratio (SUR) curve.
 
+Please run demo.ipynb to see how to extract deep features and train model.
 
 
 Please cite the following paper if you use the code:
